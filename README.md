@@ -11,3 +11,6 @@ List Array, default size 1, is expanded "true" on Inspector in Unity Editor.
 
 ![CustomList](https://user-images.githubusercontent.com/81748803/113288284-b7b58180-9329-11eb-9378-25c14db3e7b8.gif)
 
+Can update default List size if you change int num in CustomList.cs.
+
+Can update default opened status if you change isExpanded property(bool) in CustomListEditor.cs.
